@@ -1,0 +1,6 @@
+framework module Pods_SurfiOSTrainee {
+  umbrella header "Pods-SurfiOSTrainee-umbrella.h"
+
+  export *
+  module * { export * }
+}
