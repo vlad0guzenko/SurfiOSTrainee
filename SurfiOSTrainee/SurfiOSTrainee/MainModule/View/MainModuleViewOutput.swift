@@ -1,3 +1,0 @@
-protocol MainModuleViewOutput {
-    func viewIsReady()
-}
